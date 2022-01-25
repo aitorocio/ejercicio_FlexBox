@@ -8,3 +8,14 @@
 @import "./css/grid.css";
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
+
+.menu__general{
+    display: flex;
+    list-style: none;
+    
+} 
+a{
+  
+    padding: 15px;
+    text-decoration: none;
+}
